@@ -52,3 +52,5 @@ Thanks to MelonShooter for creating the grape model and material.
 GitHub Repo: https://github.com/BLEEPBLOOPforLife/Alcohol-Mod
 
 ***Do not redistribute. Non-commercial use only.***
+
+Pull requests are welcome.

@@ -1,0 +1,36 @@
+if EggrollAM:GetConfig( "WorkshopEnabled" ) then
+	resource.AddWorkshop( "782201452" )
+else
+	resource.AddFile( "materials/grapes/grapes.vmt" )
+	resource.AddSingleFile( "materials/grapes/grapes_nrm.vmt" )
+	resource.AddFile( "models/grapes/grapes.mdl" )
+	resource.AddFile( "materials/models/alcoholmod/barleyproc.vmt" )
+	resource.AddFile( "models/alcoholmod/barleyproc.mdl" )
+	resource.AddFile( "models/props/cs_militia/bottle01.mdl" )
+	resource.AddFile( "materials/models/props/cs_militia/bottle01.vmt" )
+	resource.AddFile( "models/props/de_prodigy/concretebags4.mdl" )
+	resource.AddFile( "materials/models/props/de_prodigy/concretebags4.mdl" )
+	resource.AddFile( "models/props_granary/grain_sack.mdl" )
+	resource.AddFile( "materials/models/props_granary/grain_sack_red.vmt" )
+	resource.AddFile( "materials/icons/grapeicon.png" )
+	resource.AddFile( "materials/icons/wholegrainbag.png" )
+	resource.AddFile( "materials/icons/hops.png" )
+	resource.AddFile( "materials/models/cs_havana/bookcase_small.vmt" )
+	resource.AddFile( "models/props/cs_havana/bookcase_small.mdl" )
+	resource.AddFile( "models/alcoholmod/barley.mdl" )
+	resource.AddFile( "models/props/de_inferno/flower_barrel.mdl" )
+	resource.AddFile( "materials/models/props/de_inferno/flower_barrel.vmt" )
+	resource.AddFile( "materials/icons/botanical.png" )
+	resource.AddFile( "models/alcoholmod/book.mdl" )
+	resource.AddFile( "models/weapons/w_models/w_bottle.mdl" )
+	resource.AddSingleFile( "materials/models/weapons/w_bottle.vmt" )
+	resource.AddFile( "materials/models/weapons/v_bottle/v_bottle.vmt" )
+end
+
+local function EAMLoad()
+	print( "============================================" )
+	print( "Alcohol Mod has been successfully loaded!" )
+	print( "============================================" )
+end
+
+hook.Add( "Initialize", "EAMLoad", EAMLoad )

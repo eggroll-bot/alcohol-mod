@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "grapes/grapes"
+    "$bumpmap" "grapes/grapes_nrm"
+}

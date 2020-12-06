@@ -5,7 +5,7 @@ ENT.PrintName		= "Gin"
 ENT.Category 		= "Alcohol Mod"
 ENT.Author			= "TheAsian EggrollMaker"
 
-ENT.Contact    		= "brian@melonscriptsinc.mm.my"
+ENT.Contact    		= "theasianeggrollmaker@gmail.com"
 ENT.Purpose 		= ""
 ENT.Instructions 	= "Bottle of gin. Over 9000% alcohol."
 

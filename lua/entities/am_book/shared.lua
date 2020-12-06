@@ -5,7 +5,7 @@ ENT.PrintName		= "Instuctions Book"
 ENT.Category 		= "Alcohol Mod"
 ENT.Author			= "TheAsian EggrollMaker"
 
-ENT.Contact    		= "brian@melonscriptsinc.mm.my"
+ENT.Contact    		= "theasianeggrollmaker@gmail.com"
 ENT.Purpose 		= ""
 ENT.Instructions 	= "Gives instructions on how to make items in Alcohol Mod."
 

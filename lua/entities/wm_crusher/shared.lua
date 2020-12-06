@@ -5,7 +5,7 @@ ENT.PrintName		= "Grape Crusher"
 ENT.Category 		= "Alcohol Mod"
 ENT.Author			= "TheAsian EggrollMaker"
 
-ENT.Contact    		= "brian@melonscriptsinc.mm.my"
+ENT.Contact    		= "theasianeggrollmaker@gmail.com"
 ENT.Purpose 		= ""
 ENT.Instructions 	= "Crushes grapes."
 

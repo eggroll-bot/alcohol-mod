@@ -7,7 +7,11 @@
 		"*.db",
 		"*.vcproj",
 		"*.svn*",
-		"workshop_logo.jpg"
+		"workshop_logo.jpg",
+		".git/*",
+		"README.md",
+		"LICENSE.txt",
+		".gitignore"
 	],
 	"workshopid": 782201452
 }

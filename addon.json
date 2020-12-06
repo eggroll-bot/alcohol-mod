@@ -1,0 +1,13 @@
+{
+	"title"		: "Alcohol Mod",
+	"type"		: "ServerContent",
+	"tags"		: [ "roleplay", "realism" ],
+	"ignore"	:
+	[
+		"*.db",
+		"*.vcproj",
+		"*.svn*",
+		"workshop_logo.jpg"
+	],
+	"workshopid": 782201452
+}

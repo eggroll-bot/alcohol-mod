@@ -1,12 +1,10 @@
 # Alcohol Mod
 
-***Do not redistribute. Non-commercial use only.***
-
 **Donate**
 
 If you liked this addon, please consider donating! Any amount is much appreciated.
 
-https://paypal.me/melonshooter
+https://paypal.me/brmak
 
 **Description**
 
@@ -41,16 +39,10 @@ Alcohol Mod adds alcoholic drinks like beer, wine, and gin to the game. It allow
 
 **Additional Credits**
 
-Thanks to MelonShooter for creating the grape model and material.
-
-**Support Notice**
-
-*This addon is provided to you FREE OF CHARGE. Therefore, it is provided AS IS WITHOUT WARRANTY. I reserve the right to refuse support to anyone. If you are polite and courteous in your messages/comments for support, I will provide support to you. However, if you are impolite or rude, I will refuse support to you. Please do not spam me, as I may be busy or unavailable at the time.*
+Thanks to [@MelonShooter](https://github.com/MelonShooter) for creating the grape model and material.
 
 **Download Links**
 
 GitHub Repo: https://github.com/BLEEPBLOOPforLife/Alcohol-Mod
-
-***Do not redistribute. Non-commercial use only.***
 
 Pull requests are welcome.

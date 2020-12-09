@@ -45,4 +45,4 @@ Thanks to [@MelonShooter](https://github.com/MelonShooter) for creating the grap
 
 GitHub Repo: https://github.com/BLEEPBLOOPforLife/Alcohol-Mod
 
-Pull requests are welcome.
+Pull requests will be denied. Issues/suggestions are welcome.

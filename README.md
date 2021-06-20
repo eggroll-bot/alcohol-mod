@@ -1,5 +1,7 @@
 # Alcohol Mod
 
+🚧 This project is no longer supported and has been archived. 🚧
+
 **Description**
 
 Alcohol Mod adds alcoholic drinks like beer, wine, and gin to the game. It allows for bartenders or vendors to create their own beer, wine, or gin. This makes being a bar owner more fun.

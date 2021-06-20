@@ -1,11 +1,5 @@
 # Alcohol Mod
 
-**Donate**
-
-If you liked this addon, please consider donating! Any amount is much appreciated.
-
-https://paypal.me/brmak
-
 **Description**
 
 Alcohol Mod adds alcoholic drinks like beer, wine, and gin to the game. It allows for bartenders or vendors to create their own beer, wine, or gin. This makes being a bar owner more fun.
@@ -45,4 +39,4 @@ Thanks to [@MelonShooter](https://github.com/MelonShooter) for creating the grap
 
 GitHub Repo: https://github.com/BLEEPBLOOPforLife/Alcohol-Mod
 
-Pull requests will be denied. Issues/suggestions are welcome.
+🚧 This project is no longer supported and has been archived. 🚧

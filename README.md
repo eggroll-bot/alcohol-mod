@@ -39,6 +39,6 @@ Thanks to [@MelonShooter](https://github.com/MelonShooter) for creating the grap
 
 **Download Links**
 
-GitHub Repo: https://github.com/BLEEPBLOOPforLife/Alcohol-Mod
+GitHub Repo: https://github.com/eggroll-bot/Alcohol-Mod
 
 🚧 This project is no longer supported and has been archived. 🚧
